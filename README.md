@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Iliya 👋
+ I'm Iliya 💻
 
 I'm a developer interested in building innovative software products, backend systems, and AI-powered applications.
 
